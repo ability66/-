@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/222">
+        <file>images/bg2.jpg</file>
+        <file>images/bg2.png</file>
+        <file>images/bg3.jpg</file>
+        <file>images/bg3.png</file>
+        <file>images/player1.png</file>
+        <file>images/PlayerFirst.png</file>
+        <file>images/pvp.png</file>
+        <file>images/pvp1.png</file>
+        <file>images/robot1.png</file>
+        <file>images/robotfirst.png</file>
+        <file>images/bg_pvp.png</file>
+        <file>images/robotfirst_bg.png</file>
+        <file>images/playerfirst_bg.png</file>
+        <file>images/back_to_menu.png</file>
+        <file>images/rule.png</file>
+        <file>images/defeat.png</file>
+        <file>images/regret.png</file>
+        <file>images/draw.png</file>
+        <file>images/black.png</file>
+        <file>images/white.png</file>
+        <file>sound/background.wav</file>
+        <file>sound/chessone(1).wav</file>
+        <file>sound/lose.wav</file>
+        <file>sound/win.wav</file>
+        <file>sound/click.wav</file>
+        <file>sound/chess_down.wav</file>
+    </qresource>
+</RCC>
